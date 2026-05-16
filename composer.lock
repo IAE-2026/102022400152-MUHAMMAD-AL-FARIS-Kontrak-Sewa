@@ -4,11 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-<<<<<<< HEAD
-    "content-hash": "1fb5af9ea520798560f66e6df2a0f7a5",
-=======
-    "content-hash": "d80811b45105269bc53bd48d94c242c9",
->>>>>>> 6ebb798562401407b21be04e0cdd102d336874c4
+    "content-hash": "97e5438ee99347a09713fa675cec02d0",
     "packages": [
         {
             "name": "brick/math",
@@ -1138,8 +1134,6 @@
             "time": "2025-08-22T14:27:06+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "haydenpierce/class-finder",
             "version": "0.5.3",
             "source": {
@@ -1240,7 +1234,6 @@
             "time": "2026-03-04T07:16:49+00:00"
         },
         {
->>>>>>> 6ebb798562401407b21be04e0cdd102d336874c4
             "name": "laravel/framework",
             "version": "v12.59.0",
             "source": {
@@ -1583,7 +1576,6 @@
             "time": "2026-04-16T14:03:50+00:00"
         },
         {
-<<<<<<< HEAD
             "name": "laravel/tinker",
             "version": "v2.11.1",
             "source": {
@@ -1650,8 +1642,6 @@
             "time": "2026-02-06T14:12:35+00:00"
         },
         {
-=======
->>>>>>> 6ebb798562401407b21be04e0cdd102d336874c4
             "name": "league/commonmark",
             "version": "2.8.2",
             "source": {
@@ -2211,71 +2201,6 @@
             "time": "2026-03-08T20:05:35+00:00"
         },
         {
-<<<<<<< HEAD
-=======
-            "name": "mll-lab/laravel-graphiql",
-            "version": "v4.1.0",
-            "source": {
-                "type": "git",
-                "url": "https://github.com/mll-lab/laravel-graphiql",
-                "reference": "b6426ea4471aa60d68a560945aa7232193c4a34f"
-            },
-            "dist": {
-                "type": "zip",
-                "url": "https://api.github.com/repos/mll-lab/laravel-graphiql/zipball/b6426ea4471aa60d68a560945aa7232193c4a34f",
-                "reference": "b6426ea4471aa60d68a560945aa7232193c4a34f",
-                "shasum": ""
-            },
-            "require": {
-                "illuminate/console": "^9 || ^10 || ^11 || ^12 || ^13",
-                "illuminate/contracts": "^9 || ^10 || ^11 || ^12 || ^13",
-                "illuminate/support": "^9 || ^10 || ^11 || ^12 || ^13",
-                "php": "^8"
-            },
-            "require-dev": {
-                "ergebnis/composer-normalize": "^2.45",
-                "larastan/larastan": "^2.9.14 || ^3.1",
-                "laravel/framework": "^9 || ^10 || ^11 || ^12 || ^13",
-                "mll-lab/php-cs-fixer-config": "^5.10",
-                "orchestra/testbench": "^7.52 || ^8.33 || ^9.11 || ^10 || ^11",
-                "phpstan/extension-installer": "^1.4.3",
-                "phpstan/phpstan": "^1.12.20 || ^2.1.7",
-                "phpstan/phpstan-phpunit": "^1.4.2 || ^2.0.6",
-                "phpunit/phpunit": "^9.6.22 || ^10.5.45 || ^11.5.15 || ^12.0.10"
-            },
-            "type": "library",
-            "extra": {
-                "laravel": {
-                    "providers": [
-                        "MLL\\GraphiQL\\GraphiQLServiceProvider"
-                    ]
-                }
-            },
-            "autoload": {
-                "psr-4": {
-                    "MLL\\GraphiQL\\": "src/"
-                }
-            },
-            "notification-url": "https://packagist.org/downloads/",
-            "license": [
-                "MIT"
-            ],
-            "authors": [
-                {
-                    "name": "Benedikt Franke",
-                    "email": "benedikt@franke.tech"
-                }
-            ],
-            "description": "Easily integrate GraphiQL into your Laravel project",
-            "keywords": [
-                "graphiql",
-                "graphql",
-                "laravel"
-            ],
-            "time": "2026-03-18T14:57:55+00:00"
-        },
-        {
->>>>>>> 6ebb798562401407b21be04e0cdd102d336874c4
             "name": "monolog/monolog",
             "version": "3.10.0",
             "source": {
@@ -2787,8 +2712,6 @@
             "time": "2026-02-16T23:10:27+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "nuwave/lighthouse",
             "version": "v6.66.0",
             "source": {
@@ -2919,7 +2842,6 @@
             "time": "2026-03-30T07:31:53+00:00"
         },
         {
->>>>>>> 6ebb798562401407b21be04e0cdd102d336874c4
             "name": "phpoption/phpoption",
             "version": "1.9.5",
             "source": {
@@ -3454,7 +3376,6 @@
             "time": "2021-10-29T13:26:27+00:00"
         },
         {
-<<<<<<< HEAD
             "name": "psy/psysh",
             "version": "v0.12.22",
             "source": {
@@ -3534,8 +3455,6 @@
             "time": "2026-03-22T23:03:24+00:00"
         },
         {
-=======
->>>>>>> 6ebb798562401407b21be04e0cdd102d336874c4
             "name": "radebatz/type-info-extras",
             "version": "1.0.7",
             "source": {
@@ -6525,8 +6444,6 @@
             "time": "2026-05-13T12:04:42+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "thecodingmachine/safe",
             "version": "v3.4.0",
             "source": {
@@ -6670,7 +6587,6 @@
             "time": "2026-02-04T18:08:13+00:00"
         },
         {
->>>>>>> 6ebb798562401407b21be04e0cdd102d336874c4
             "name": "tijsverkoyen/css-to-inline-styles",
             "version": "v2.4.0",
             "source": {
@@ -6884,8 +6800,6 @@
             "time": "2026-04-26T05:33:54+00:00"
         },
         {
-<<<<<<< HEAD
-=======
             "name": "webonyx/graphql-php",
             "version": "v15.32.3",
             "source": {
@@ -6966,7 +6880,6 @@
             "time": "2026-04-24T13:49:35+00:00"
         },
         {
->>>>>>> 6ebb798562401407b21be04e0cdd102d336874c4
             "name": "zircote/swagger-php",
             "version": "6.1.2",
             "source": {
@@ -7057,7 +6970,6 @@
             "time": "2026-04-28T04:47:53+00:00"
         }
     ],
-<<<<<<< HEAD
     "packages-dev": [
         {
             "name": "fakerphp/faker",
@@ -9366,15 +9278,6 @@
     "platform": {
         "php": "^8.2"
     },
-=======
-    "packages-dev": [],
-    "aliases": [],
-    "minimum-stability": "stable",
-    "stability-flags": {},
-    "prefer-stable": false,
-    "prefer-lowest": false,
-    "platform": {},
->>>>>>> 6ebb798562401407b21be04e0cdd102d336874c4
     "platform-dev": {},
     "plugin-api-version": "2.6.0"
 }

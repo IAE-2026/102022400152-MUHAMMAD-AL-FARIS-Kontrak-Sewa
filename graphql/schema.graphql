@@ -1,0 +1,12 @@
+type Contract {
+    id: ID!
+    contract_number: String!
+    property_id: String!
+    tenant_id: String!
+    status: String!
+    monthly_rent: Float!
+}
+
+type Query {
+    contracts: [Contract!]! @all
+}

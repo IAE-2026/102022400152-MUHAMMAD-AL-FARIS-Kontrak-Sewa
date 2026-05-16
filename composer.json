@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
     "$schema": "https://getcomposer.org/schema.json",
     "name": "laravel/laravel",
     "type": "project",
@@ -10,7 +9,8 @@
         "php": "^8.2",
         "darkaonline/l5-swagger": "^11.0",
         "laravel/framework": "^12.0",
-        "laravel/tinker": "^2.10.1"
+        "laravel/tinker": "^2.10.1",
+        "nuwave/lighthouse": "^6.66"
     },
     "require-dev": {
         "fakerphp/faker": "^1.23",
@@ -85,11 +85,5 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true
-=======
-    "require": {
-        "darkaonline/l5-swagger": "^11.0",
-        "nuwave/lighthouse": "^6.66",
-        "mll-lab/laravel-graphiql": "^4.1"
-    }
->>>>>>> 6ebb798562401407b21be04e0cdd102d336874c4
+
 }
