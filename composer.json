@@ -1,0 +1,7 @@
+{
+    "require": {
+        "darkaonline/l5-swagger": "^11.0",
+        "nuwave/lighthouse": "^6.66",
+        "mll-lab/laravel-graphiql": "^4.1"
+    }
+}
