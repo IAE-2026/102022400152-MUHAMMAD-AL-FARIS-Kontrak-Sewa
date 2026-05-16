@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "$schema": "https://getcomposer.org/schema.json",
     "name": "laravel/laravel",
     "type": "project",
@@ -84,4 +85,11 @@
     },
     "minimum-stability": "stable",
     "prefer-stable": true
+=======
+    "require": {
+        "darkaonline/l5-swagger": "^11.0",
+        "nuwave/lighthouse": "^6.66",
+        "mll-lab/laravel-graphiql": "^4.1"
+    }
+>>>>>>> 6ebb798562401407b21be04e0cdd102d336874c4
 }
